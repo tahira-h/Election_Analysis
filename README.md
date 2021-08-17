@@ -29,16 +29,14 @@ The analysis of the election show that:
 
 ## Challenge Overview
 
-The purpose of this election audit analysis is to improve the understanding of additional data completed. For instance, results 
+The purpose of this election audit analysis is to improve the understanding of the results that will be reported to the election commission. These results includes, results 
 of the voter turnaround for each county, the percentage of votes from each county, and the county with this highest results in regards to the election in Colorado.
-
 
 ## Challenge Summary
 
-
 * There were 369, 711 votes cast in total for this congressional. 
 
-* The number of votes for Jefferson county was 10.5%(38,855), the number of votes for Denver was 82.8%(306, 055), and the number of votes for Arapahoe was 6.7%(24,801). There is an image to view these scores below.
+* The number of votes for Jefferson county was 10.5%(38,855), the number of votes for Denver was 82.8%(306, 055), and the number of votes for Arapahoe was 6.7%(24,801). 
 
 The percent of total 
 
@@ -46,7 +44,7 @@ The percent of total
 
 * Candidate Raymond Anthony Doane received 11,606(3.1%) votes, candidate Diana DeGette received 272,892 (73.8%) votes, and Charles Casper Stockham received 85,213(23.0%) votes. 
 
-* Diana DeGette won the election. DeGette's vote count was 272,892(73.8%)
+* Diana DeGette won the election. DeGette's vote count was 272,892(73.8%). Please see below to view results.
 
 Open the file containing End_Results.
 
@@ -55,23 +53,5 @@ Open the file containing End_Results.
 Close the file.
 
 Election-Audit Summary: 
-	This information in this script is fortunate enough to provide various ways of how the data can be used for any election. The votes are mostly focued on candidates and counties, and the results are monitored by various programs such as: Python and Visual Studio Code. 
-	A second reason why this script can be used for other elections is because of the notes that are provided  in the code. The notes provide analyzer with notes in the code to follow along with how the code was used in find the results, and how to properly follow along with the steps provided to find the voting score data.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	The information in this script is fortunate enough to provide various ways of how the data can be used for any election. The first reason why this script can be used for other elections is the votes are mostly focused on candidates and counties, and the results are monitored by various programs such as: Python and Visual Studio Code. 
+	A second reason why this script can be used for other elections is because of the notes that are provided in the code. The notes provided in the code allows the viewer/analyzer to follow along with how the code was used to find the results, and how to properly follow along with the steps provided to find the voting score data.  
