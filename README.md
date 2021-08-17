@@ -50,7 +50,7 @@ The percent of total
 
 Open the file containing End_Results.
 
-![End_Results](Election_Analysis/Election_Analysis/Resources/End_Results.png)
+![End_Results](/Election_Analysis/Resources/End_Results.png)
 
 Close the file.
 
