@@ -17,9 +17,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 The analysis of the election show that:
 - There were "x" votes cast in the election. 
 - The candidates were:
-	- Candidate 1: Raymon Anthony Doane
+	- Candidate 1: Charles Casper Stockham
 	- Candidate 2: Diana DeGette
-	- Candidate 3: Charles Casper Stockham
+	- Candidate 3: Raymon Anthony Doane
 - The candidate results were:
 	- Candidate 1 received "x%" of the vote and "y" number of votes.
 	- Candidate 2 received "x%" of the vote and "y" number of votes.
@@ -42,7 +42,7 @@ The percent of total
 
 * Denver county had the largest number of votes in this election with a total amount of 306,055 out of 369,711 votes.
 
-* Candidate Raymon Anthony Doane received 11,606(3.1%) votes, candidate Diana DeGette received 272,892 (73.8%) votes, and Charles Casper Stockham received 85,213(23.0%) votes. 
+* Candidate Raymon Anthony Doane received 11,606(3.1%) votes, candidate Charles Casper Stockham received 85,213(23.0%) votes, and candidate Diana DeGette received 272,892 (73.8%) votes. 
 
 * Diana DeGette won the election. DeGette's vote count was 272,892(73.8%). Please see below to view results.
 
