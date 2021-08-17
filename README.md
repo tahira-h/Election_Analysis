@@ -48,7 +48,11 @@ The percent of total
 
 * Diana DeGette won the election. DeGette's vote count was 272,892(73.8%)
 
-Election_Analysis/Election_Analysis/Resources/End_Results.png
+Open the file containing End_Results.
+
+![End_Results](Election_Analysis/Election_Analysis/Resources/End_Results.png)
+
+Close the file.
 
 Election-Audit Summary: 
 	This information in this script is fortunate enough to provide various ways of how the data can be used for any election. The votes are mostly focued on candidates and counties, and the results are monitored by various programs such as: Python and Visual Studio Code. 
